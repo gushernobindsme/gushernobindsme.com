@@ -49,7 +49,7 @@ final String json = resource.get(String.class);
 </dependency>
 ```
 
-任意のDTOを作って((実装の簡略化のため、今回は@JsonIgnoreProperties(ignoreUnknown=true)を指定しています。これを指定しておくと、JSON構造が持つフィールドを全てDTOに用意していなくても動作するようになる))、
+任意のDTOを作って、
 
 ```java
 @JsonIgnoreProperties(ignoreUnknown=true)

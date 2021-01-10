@@ -25,6 +25,6 @@ SpringBootに関しては、
     * 他のSpringシリーズと組み合わせて使えるので、Struts2やMyBatisを一生懸命組み合わせるよりシンプルにものが作れそう
 
 だいたいこういう印象。SpringCloudConfigとか、Spring関連のフレームワークの知識をちゃんとアップデートしたいので、次はその辺の本を読んでおきたいです。  
-で、以下は読書メモ。Spring Tool Suiteに関する記述は読み飛ばしてます((EclipseからIntelliJの軍門に下ったので……))。
+で、以下は読書メモ。Spring Tool Suiteに関する記述は読み飛ばしてます。
 
 - [SpringBootプログラミング入門_読書メモ](https://gist.github.com/gushernobindsme/a8d87497fa2b05e84dd56c6a97ffe40b)
